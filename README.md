@@ -1,2 +1,2 @@
-# html-tree-generator__chrome-extension
-Chrome Extension that represents any webpage's html as a tree.
+# HTML Tree Generator
+My own Fork of this excellent plugin that was used to generate HTML trees for one of our Projects. Modifications have been made to allow easy creation of Trees.
